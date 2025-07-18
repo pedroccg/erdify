@@ -1,0 +1,1001 @@
+passport,name,surname,flight_number,flight_date,airplane_license,airplane_model,airline_name,departure_airport,dep_city,dep_country,arrival_airport,arr_city,arr_country,baggage_belt,seat_number,flight_crew_license,flight_crew_role,flight_status_date,flight_status_hour,flight_status
+QT5620223,Jacob,Carlson,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,5C,FWL3110,Captain,2025-07-03,15:32:49,departed
+RP8177548,Charles,Jacobson,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,11C,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+NL0487387,Jennifer,Henderson,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,6B,FWL7512,First Officer,2025-06-24,02:39:58,on time
+RP8177548,Charles,Jacobson,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,14F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+KC9995131,John,Wilson,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,17C,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+FG9883187,Tracy,Mckinney,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,26B,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+VP1138788,Kathryn,Petersen,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,23E,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+XV5061132,John,Sullivan,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,25E,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+PN9991853,Jeffrey,Johnson,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,6B,FWL7108,Captain,2025-08-03,18:11:29,delayed
+XQ3457027,Lori,Duarte,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,16A,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+BA8967482,Emily,Martin,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,24F,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+PJ6667686,Alexander,Scott,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,12D,FWL1999,Captain,2025-08-13,04:49:16,on time
+TZ4025555,Derek,Valdez,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,21A,FWL1975,Captain,2025-07-06,05:03:57,delayed
+MO2842572,Benjamin,Cruz,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,12D,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+PF9573532,David,Ayala,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,16E,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+AY2616192,Timothy,Mullen,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,23B,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+AI8689082,Monica,Thompson,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,23A,FWL8750,Captain,2025-07-09,12:09:18,on time
+EF9421081,Jennifer,Rose,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,13A,FWL7108,Captain,2025-08-03,18:11:29,delayed
+KN9654137,Samantha,Faulkner,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,14B,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+TN7475159,Veronica,Nelson,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,7C,FWL4157,Captain,2025-08-13,22:02:00,on time
+XH6211764,Justin,Hampton,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,1F,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+BF2021263,Latoya,Benson,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,5F,FWL8317,Captain,2025-07-27,05:41:01,departed
+YN8225941,Teresa,Morgan,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,1B,FWL7512,First Officer,2025-06-24,02:39:58,on time
+KP0321230,Tiffany,Smith,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,20F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+SN1244513,Glenda,Walsh,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,13C,FWL6846,Captain,2025-07-29,14:50:41,on time
+AO0529086,Megan,Jarvis,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,7D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+AC2857512,Stephanie,Simmons,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,17E,FWL4157,Captain,2025-08-13,22:02:00,on time
+YZ9805192,Ryan,Moss,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,4A,FWL8869,Captain,2025-08-01,16:03:49,departed
+LS3381866,Tracy,Figueroa,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,12E,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+RV7656433,Justin,Austin,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,22A,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+IC0332114,Morgan,Camacho,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,11C,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+UR9167007,Tammy,Garcia,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,9F,FWL1999,Captain,2025-08-13,04:49:16,on time
+AB5293098,Jennifer,Gardner,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,5E,FWL5093,Captain,2025-07-20,08:31:34,on time
+RF1837588,Ryan,Hess,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,26F,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+MY5870685,Jack,Lutz,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,5F,FWL4157,Captain,2025-08-13,22:02:00,on time
+UN0309883,Betty,Nelson,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,32C,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+AI8689082,Monica,Thompson,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,13D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+RF1954781,Ronnie,Rice,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,23E,FWL8869,Captain,2025-08-01,16:03:49,departed
+DL2208961,Amber,Ford,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,24F,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+WI1908112,Jose,Cohen,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,18F,FWL4157,Captain,2025-08-13,22:02:00,on time
+QU1286174,Sandra,Mccarty,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,12C,FWL2481,Captain,2025-08-12,15:07:56,delayed
+AI8689082,Monica,Thompson,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,12F,FWL2641,Captain,2025-07-16,20:25:19,arrived
+OX8796751,Dennis,Hall,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,6B,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+ZD3534220,David,Knight,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,24C,FWL3110,Captain,2025-07-03,15:32:49,departed
+KT7964938,Natalie,Mcdonald,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,12C,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+MO3215725,Brenda,Crane,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,15A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+XM0098509,Robert,Sosa,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,5D,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+MG5592962,Mark,Thomas,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,4F,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+QS6125292,Mark,Ramirez,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,20D,FWL5278,Captain,2025-07-14,05:31:11,departed
+RH3704990,Charlotte,Peters,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,9B,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+LX0111373,Richard,Conley,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,19D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+ZD7672544,Jessica,Fisher,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,28F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+LS4614936,George,Smith,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,3D,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+LX4068330,Eric,Dominguez,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,6C,FWL2584,Captain,2025-07-05,04:19:10,delayed
+PZ6082691,Amanda,Beck,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,15C,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+OX2089341,Shawna,Elliott,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,25B,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+RB6780044,Danielle,Brown,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,6D,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+VT6210248,Richard,Johnson,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,20D,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+TW0210570,Keith,Robinson,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,14D,FWL1975,Captain,2025-07-06,05:03:57,delayed
+HF7339721,Jason,Wilkinson,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,2E,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+XQ3457027,Lori,Duarte,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,24A,FWL2641,Captain,2025-07-16,20:25:19,arrived
+IC6364630,Christopher,Malone,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,27E,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+DL2208961,Amber,Ford,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,22A,FWL7108,Captain,2025-08-03,18:11:29,delayed
+CB1662644,Marvin,Ware,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,23C,FWL3110,Captain,2025-07-03,15:32:49,departed
+IB5817466,David,Goodwin,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,4D,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+CT6360963,Kim,Carter,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,10B,FWL8869,Captain,2025-08-01,16:03:49,departed
+VP1138788,Kathryn,Petersen,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,10C,FWL5625,First Officer,2025-06-29,17:29:58,departed
+BA8967482,Emily,Martin,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,22D,FWL2641,Captain,2025-07-16,20:25:19,arrived
+IS2211157,Tina,Martinez,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,16C,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+NO7108629,David,Lawrence,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,26A,FWL2481,Captain,2025-08-12,15:07:56,delayed
+BU8549044,Stephanie,Parrish,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,24B,FWL3110,Captain,2025-07-03,15:32:49,departed
+YH4081467,Martin,Thomas,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,2E,FWL2641,Captain,2025-07-16,20:25:19,arrived
+TZ4025555,Derek,Valdez,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,8C,FWL2481,Captain,2025-08-12,15:07:56,delayed
+CL4476904,Danny,Fisher,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,29F,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+TE3758808,Dawn,Lopez,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,18E,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+PO7055819,Tiffany,Rivers,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,4F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+QA3506140,Timothy,Singh,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,2A,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+EP7189103,Tom,Brown,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,15D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+TZ2854472,Kristen,Griffith,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,9D,FWL6424,Captain,2025-08-11,01:12:26,on time
+OH1669540,Benjamin,Le,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,23F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+BF2021263,Latoya,Benson,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,14F,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+OD2670454,Heather,Potter,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,17C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+FE0529561,Danielle,Stewart,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,4E,FWL2655,First Officer,2025-06-22,12:40:49,departed
+RY3706617,Justin,Lee,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,4A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+MS4268744,Duane,Cardenas,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,20B,FWL5093,Captain,2025-07-20,08:31:34,on time
+NX3788211,Michelle,Clark,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,13C,FWL5278,Captain,2025-07-14,05:31:11,departed
+XH6211764,Justin,Hampton,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,6A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+FL2283554,Daniel,Cline,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,14F,FWL7323,First Officer,2025-07-21,18:45:49,departed
+IC0332114,Morgan,Camacho,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,8A,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+JZ6568720,John,King,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,3A,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+UN6547056,Joshua,Klein,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,16B,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+BK6164260,Tina,Allen,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,17A,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+OD2670454,Heather,Potter,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,21B,FWL3435,Captain,2025-06-29,02:06:45,arrived
+BA8967482,Emily,Martin,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,9D,FWL9907,Captain,2025-06-19,18:44:34,canceled
+CE5621825,Cassidy,Shaw,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,6A,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+HT4538483,Kyle,Houston,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,26F,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+VB7420109,James,Johnson,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,24A,FWL6846,Captain,2025-07-29,14:50:41,on time
+WL8695986,Caitlin,Wilkerson,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,2A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+FE0529561,Danielle,Stewart,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,21B,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+NK6217435,John,Hansen,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,29E,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+HH0534080,Ruben,Waters,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,6C,FWL2641,Captain,2025-07-16,20:25:19,arrived
+LX0111373,Richard,Conley,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,4D,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+ZO4984111,Mary,Conley,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,9D,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+AH9439466,Rhonda,Nelson,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,21B,FWL2655,First Officer,2025-06-22,12:40:49,departed
+AO9367679,Levi,Fisher,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,23F,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+DC5267262,Brittany,Brooks,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,7D,FWL2481,Captain,2025-08-12,15:07:56,delayed
+OK0305332,David,Rush,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,29B,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+RN3193377,Candace,Green,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,12E,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+BW9040771,Daniel,Salazar,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,24B,FWL4157,Captain,2025-08-13,22:02:00,on time
+OK0305332,David,Rush,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,8D,FWL7323,First Officer,2025-07-21,18:45:49,departed
+GF6980712,James,Campbell,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,3C,FWL5625,First Officer,2025-06-29,17:29:58,departed
+VB7420109,James,Johnson,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,23F,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+QZ5413403,Shirley,Carter,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,24E,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+OP6768635,Cindy,Dunn,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,22C,FWL3110,Captain,2025-07-03,15:32:49,departed
+GW5656538,Alexandria,Johnson,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,7D,FWL5278,Captain,2025-07-14,05:31:11,departed
+CB1662644,Marvin,Ware,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,12F,FWL8317,Captain,2025-07-27,05:41:01,departed
+RJ9898227,Gregory,Hawkins,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,4A,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+ZR2074691,Laura,Stone,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,16D,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+QT2594619,Rebecca,Morales,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,25D,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+IC6364630,Christopher,Malone,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,11C,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+CE5621825,Cassidy,Shaw,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,8E,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+KU9870123,Tonya,Daugherty,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,27B,FWL1975,Captain,2025-07-06,05:03:57,delayed
+OG7095776,Stephanie,Johnson,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,15E,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+NM0948934,Andrew,Walton,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,28D,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+PF9573532,David,Ayala,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,4D,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+ZN0016740,Jay,Bell,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,13D,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+RF1954781,Ronnie,Rice,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,18A,FWL6424,Captain,2025-08-11,01:12:26,on time
+BK6164260,Tina,Allen,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,20E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+QL7614680,Victor,Salinas,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,21F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+BA8967482,Emily,Martin,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,12A,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+ER0072310,Pamela,Smith,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,11E,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+VK8371975,Derek,Griffith,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,22C,FWL8506,Captain,2025-06-19,19:55:08,delayed
+JV4662896,Katherine,Reynolds,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,4F,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+WI1908112,Jose,Cohen,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,11C,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+YZ4235988,Danny,Miles,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,17C,FWL6424,Captain,2025-08-11,01:12:26,on time
+FL0364141,Patricia,Lyons,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,29B,FWL5625,First Officer,2025-06-29,17:29:58,departed
+IZ9264523,Renee,Owen,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,27F,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+XH6211764,Justin,Hampton,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,9E,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+OR7064927,John,Davis,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,4D,FWL5093,Captain,2025-07-20,08:31:34,on time
+AJ4980659,Mark,Tate,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,26B,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+CI9757809,Samuel,Johnson,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,25D,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+LK9957129,Thomas,Rivera,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,22E,FWL2584,Captain,2025-07-05,04:19:10,delayed
+TZ2854472,Kristen,Griffith,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,15D,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+TZ4025555,Derek,Valdez,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,16A,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+TT5117838,James,Miranda,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,2E,FWL8750,Captain,2025-07-09,12:09:18,on time
+TI5633162,Steven,Nelson,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,16E,FWL8869,Captain,2025-08-01,16:03:49,departed
+GU0778368,Melissa,Roberson,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,19B,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+WE2738720,Ronald,Miller,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,13F,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+IC6364630,Christopher,Malone,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,13D,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+CB1662644,Marvin,Ware,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,13C,FWL1999,Captain,2025-08-13,04:49:16,on time
+DG6851882,Yesenia,Henderson,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,5B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+FL2283554,Daniel,Cline,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,23F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+RG3913362,Emily,Shea,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,7B,FWL2584,Captain,2025-07-05,04:19:10,delayed
+OX2089341,Shawna,Elliott,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,23C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+ZM0558845,Adam,Robles,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,18F,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+WJ9299063,Christopher,Graham,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,4C,FWL8506,Captain,2025-06-19,19:55:08,delayed
+QL7614680,Victor,Salinas,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,19E,FWL8317,Captain,2025-07-27,05:41:01,departed
+NL0487387,Jennifer,Henderson,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,24E,FWL4157,Captain,2025-08-13,22:02:00,on time
+UV8037131,Samuel,Holt,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,1E,FWL6846,Captain,2025-07-29,14:50:41,on time
+FL0364141,Patricia,Lyons,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,13B,FWL7108,Captain,2025-08-03,18:11:29,delayed
+RH3704990,Charlotte,Peters,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,2B,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+YO6686104,Jacqueline,Barnes,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,26B,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+UV8037131,Samuel,Holt,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,9B,FWL4157,Captain,2025-08-13,22:02:00,on time
+MX8042076,Melanie,Jackson,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,26C,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+MU7319198,Angela,Richardson,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,18A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+TM5430959,Stephanie,Khan,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,4E,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+QL7614680,Victor,Salinas,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,24F,FWL3110,Captain,2025-07-03,15:32:49,departed
+QL7614680,Victor,Salinas,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,8E,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+VU8144624,John,Rivera,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,22A,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+QS6125292,Mark,Ramirez,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,14F,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+VB7420109,James,Johnson,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,2A,FWL6424,Captain,2025-08-11,01:12:26,on time
+HT1426460,Sharon,Coleman,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,20D,FWL5093,Captain,2025-07-20,08:31:34,on time
+TN7475159,Veronica,Nelson,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,23F,FWL2584,Captain,2025-07-05,04:19:10,delayed
+IM4653619,Sean,Hansen,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,19E,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+OR7064927,John,Davis,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,24B,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+DG6851882,Yesenia,Henderson,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,6F,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+HQ3959191,Angela,Gray,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,6F,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+EQ4061537,Peter,Crosby,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,13A,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+TW0210570,Keith,Robinson,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,18C,FWL1999,Captain,2025-08-13,04:49:16,on time
+YC7476647,Juan,Lee,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,17A,FWL2481,Captain,2025-08-12,15:07:56,delayed
+GG4929418,Stacy,Allen,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,23B,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+IW2144229,Cynthia,Austin,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,21E,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+QK5592723,Marie,Chavez,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,21E,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+AC2857512,Stephanie,Simmons,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,23A,FWL7323,First Officer,2025-07-21,18:45:49,departed
+ID3878394,Jennifer,Savage,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,15B,FWL5278,Captain,2025-07-14,05:31:11,departed
+QV7260113,Victoria,Ford,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,26E,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+PQ4033683,Angel,Bryant,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,18E,FWL2655,First Officer,2025-06-22,12:40:49,departed
+XV5061132,John,Sullivan,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,12B,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+YK7140449,Kim,Smith,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,11C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+FJ0486458,Troy,Bauer,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,7E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+TT5117838,James,Miranda,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,18F,FWL8317,Captain,2025-07-27,05:41:01,departed
+BF2021263,Latoya,Benson,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,22C,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+PF9573532,David,Ayala,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,29F,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+ZV6609821,Sharon,Thomas,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,22C,FWL5625,First Officer,2025-06-29,17:29:58,departed
+QS6125292,Mark,Ramirez,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,13C,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+CZ7998182,Shaun,Thomas,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,19A,FWL2641,Captain,2025-07-16,20:25:19,arrived
+ZD9134244,Michelle,Thomas,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,16A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+TH9149243,Charles,Shaw,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,13C,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+EQ4061537,Peter,Crosby,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,31A,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+NZ3586857,Crystal,Mitchell,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,3B,FWL2584,Captain,2025-07-05,04:19:10,delayed
+YK7140449,Kim,Smith,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,14A,FWL4157,Captain,2025-08-13,22:02:00,on time
+SZ9837054,Laura,Lee,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,23F,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+HB9896449,Joshua,Luna,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,5F,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+OH1669540,Benjamin,Le,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,15F,FWL7108,Captain,2025-08-03,18:11:29,delayed
+GG4929418,Stacy,Allen,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,3A,FWL5625,First Officer,2025-06-29,17:29:58,departed
+RH3704990,Charlotte,Peters,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,26C,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+VZ4103713,Alexis,Gomez,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,19B,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+GG7937066,Jeffrey,Jones,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,11A,FWL6846,Captain,2025-07-29,14:50:41,on time
+QP2656047,Allison,Parks,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,4E,FWL4157,Captain,2025-08-13,22:02:00,on time
+MO3215725,Brenda,Crane,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,23A,FWL5625,First Officer,2025-06-29,17:29:58,departed
+TM5430959,Stephanie,Khan,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,4C,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+AC2857512,Stephanie,Simmons,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,6C,FWL7512,First Officer,2025-06-24,02:39:58,on time
+WH7895951,Gabriel,Huffman,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,13F,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+MO2842572,Benjamin,Cruz,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,6E,FWL8317,Captain,2025-07-27,05:41:01,departed
+AU2150722,Michael,Pennington,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,24D,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+AU7746305,Mark,Hawkins,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,21B,FWL9907,Captain,2025-06-19,18:44:34,canceled
+AB5293098,Jennifer,Gardner,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,26F,FWL4157,Captain,2025-08-13,22:02:00,on time
+UU5751668,Eric,James,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,18E,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+MV4060153,Matthew,Peterson,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,2A,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+UN6547056,Joshua,Klein,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,26E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+FL2283554,Daniel,Cline,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,10B,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+EZ2115924,Elaine,Simpson,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,11B,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+WI1908112,Jose,Cohen,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,27C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+MG5592962,Mark,Thomas,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,6F,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+NT2089414,Brianna,Johnson,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,30F,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+IR0074184,Riley,Miranda,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,10F,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+FG1784619,Philip,King,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,4B,FWL3435,Captain,2025-06-29,02:06:45,arrived
+NU7117287,Suzanne,Ingram,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,22C,FWL7323,First Officer,2025-07-21,18:45:49,departed
+OD2670454,Heather,Potter,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,20A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+MG5592962,Mark,Thomas,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,16D,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+NK6217435,John,Hansen,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,22C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+MO3215725,Brenda,Crane,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,24C,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+TW0210570,Keith,Robinson,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,1C,FWL2481,Captain,2025-08-12,15:07:56,delayed
+AT2433775,Henry,Beasley,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,23F,FWL3110,Captain,2025-07-03,15:32:49,departed
+YR7341374,Debra,Lamb,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,12B,FWL1999,Captain,2025-08-13,04:49:16,on time
+GG4929418,Stacy,Allen,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,15D,FWL8317,Captain,2025-07-27,05:41:01,departed
+TM5430959,Stephanie,Khan,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,10D,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+AY2616192,Timothy,Mullen,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,6F,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+JB6338733,Cassandra,Stone,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,5E,FWL1999,Captain,2025-08-13,04:49:16,on time
+OR7064927,John,Davis,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,24F,FWL3435,Captain,2025-06-29,02:06:45,arrived
+ZG1473653,Timothy,Lowe,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,5A,FWL2641,Captain,2025-07-16,20:25:19,arrived
+LK7553014,Andrew,Tanner,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,1E,FWL2584,Captain,2025-07-05,04:19:10,delayed
+PI7717719,Jeffrey,Gray,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,25E,FWL1975,Captain,2025-07-06,05:03:57,delayed
+YH4081467,Martin,Thomas,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,18C,FWL5625,First Officer,2025-06-29,17:29:58,departed
+QW0529393,Cassandra,Hanson,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,16F,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+SS4697669,John,Thompson,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,13B,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+HT4538483,Kyle,Houston,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,15E,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+LS3381866,Tracy,Figueroa,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,13C,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+CT6360963,Kim,Carter,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,22B,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+QT2594619,Rebecca,Morales,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,17B,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+PF9573532,David,Ayala,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,12E,FWL2481,Captain,2025-08-12,15:07:56,delayed
+OP6768635,Cindy,Dunn,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,5F,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+OK0305332,David,Rush,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,3B,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+HM0444022,Sarah,Wilkins,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,3C,FWL3110,Captain,2025-07-03,15:32:49,departed
+TH3857283,Scott,Tanner,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,2F,FWL3110,Captain,2025-07-03,15:32:49,departed
+SZ9837054,Laura,Lee,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,24D,FWL5278,Captain,2025-07-14,05:31:11,departed
+XM0098509,Robert,Sosa,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,2A,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+WJ9299063,Christopher,Graham,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,23E,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+SN1244513,Glenda,Walsh,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,9E,FWL8750,Captain,2025-07-09,12:09:18,on time
+QW0529393,Cassandra,Hanson,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,12D,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+KU9870123,Tonya,Daugherty,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,19F,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+ZG1473653,Timothy,Lowe,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,17D,FWL5278,Captain,2025-07-14,05:31:11,departed
+ER0072310,Pamela,Smith,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,26C,FWL5278,Captain,2025-07-14,05:31:11,departed
+YX8265135,Laura,Key,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,31E,FWL7323,First Officer,2025-07-21,18:45:49,departed
+NZ3586857,Crystal,Mitchell,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,5D,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+QT2594619,Rebecca,Morales,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,3E,FWL3110,Captain,2025-07-03,15:32:49,departed
+ZS3593378,Tracy,West,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,5B,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+ZR2074691,Laura,Stone,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,20F,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+RY3706617,Justin,Lee,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,8D,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+GG4929418,Stacy,Allen,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,8D,FWL2641,Captain,2025-07-16,20:25:19,arrived
+CQ7701767,Amy,Klein,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,7E,FWL8317,Captain,2025-07-27,05:41:01,departed
+SH9854339,David,Miller,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,27A,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+ZV6609821,Sharon,Thomas,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,5E,FWL5625,First Officer,2025-06-29,17:29:58,departed
+SH9854339,David,Miller,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,21E,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+IW2144229,Cynthia,Austin,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,10A,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+PG1550994,Brittney,Walters,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,6E,FWL3435,Captain,2025-06-29,02:06:45,arrived
+GG7937066,Jeffrey,Jones,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,2F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+EF9421081,Jennifer,Rose,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,7D,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+IY5773012,Susan,Saunders,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,6B,FWL8317,Captain,2025-07-27,05:41:01,departed
+OM5622780,Andrew,Hart,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,10E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+QW8833778,Breanna,Roberts,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,22E,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+PT6174774,Marissa,Jones,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,22D,FWL2481,Captain,2025-08-12,15:07:56,delayed
+WZ8807398,Jessica,Lee,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,13D,FWL3110,Captain,2025-07-03,15:32:49,departed
+CF6354547,Dale,Harrison,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,1B,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+ES5413166,Paula,Hammond,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,22D,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+SS4697669,John,Thompson,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,7B,FWL7512,First Officer,2025-06-24,02:39:58,on time
+ZB4837937,David,Baker,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,20A,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+BS5918729,Elizabeth,Wright,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,25A,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+TU1419502,Robert,Lopez,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,22B,FWL8317,Captain,2025-07-27,05:41:01,departed
+CZ7998182,Shaun,Thomas,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,29F,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+TK2280528,Melanie,Wilson,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,27C,FWL5278,Captain,2025-07-14,05:31:11,departed
+EM2403927,Maria,Black,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,17D,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+RM9006026,Michelle,Baker,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,26D,FWL8317,Captain,2025-07-27,05:41:01,departed
+MQ2948620,Joyce,Rodriguez,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,26F,FWL8869,Captain,2025-08-01,16:03:49,departed
+HI5285368,Michael,Matthews,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,14B,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+TE3758808,Dawn,Lopez,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,25B,FWL8317,Captain,2025-07-27,05:41:01,departed
+KK2149696,Nicole,Garza,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,20E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+XH6211764,Justin,Hampton,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,7A,FWL3435,Captain,2025-06-29,02:06:45,arrived
+NZ3586857,Crystal,Mitchell,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,8E,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+NZ3586857,Crystal,Mitchell,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,21B,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+NZ5271378,Deborah,Garrison,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,12A,FWL2655,First Officer,2025-06-22,12:40:49,departed
+BL3209859,Darryl,Bush,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,21E,FWL6846,Captain,2025-07-29,14:50:41,on time
+KP0321230,Tiffany,Smith,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,18D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+OP6768635,Cindy,Dunn,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,20C,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+YZ9805192,Ryan,Moss,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,7D,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+AY2616192,Timothy,Mullen,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,16B,FWL6424,Captain,2025-08-11,01:12:26,on time
+TH3857283,Scott,Tanner,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,18D,FWL6424,Captain,2025-08-11,01:12:26,on time
+KP0321230,Tiffany,Smith,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,19C,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+YZ9805192,Ryan,Moss,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,5F,FWL8750,Captain,2025-07-09,12:09:18,on time
+RY3706617,Justin,Lee,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,8D,FWL8750,Captain,2025-07-09,12:09:18,on time
+SH9854339,David,Miller,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,7E,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+LG1775718,Regina,Clark,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,26E,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+QK5592723,Marie,Chavez,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,25F,FWL2481,Captain,2025-08-12,15:07:56,delayed
+EY3008687,Jeremy,Sullivan,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,27B,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+IY5773012,Susan,Saunders,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,28A,FWL7512,First Officer,2025-06-24,02:39:58,on time
+GT5400895,Ian,Payne,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,8C,FWL3435,Captain,2025-06-29,02:06:45,arrived
+OG7095776,Stephanie,Johnson,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,3F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+HF7339721,Jason,Wilkinson,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,20F,FWL1975,Captain,2025-07-06,05:03:57,delayed
+QV7260113,Victoria,Ford,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,23E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+PZ6082691,Amanda,Beck,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,6F,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+VK1555659,Gregory,Gardner,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,1B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+GW5656538,Alexandria,Johnson,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,7A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+LS3381866,Tracy,Figueroa,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,15E,FWL5278,Captain,2025-07-14,05:31:11,departed
+DV4752892,Peter,Robinson,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,2C,FWL4157,Captain,2025-08-13,22:02:00,on time
+RT8796352,Ashlee,Barker,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,1B,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+FM9710563,Robert,Mooney,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,25D,FWL1999,Captain,2025-08-13,04:49:16,on time
+BL4263778,Marissa,Jones,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,13D,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+XQ3457027,Lori,Duarte,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,1F,FWL5278,Captain,2025-07-14,05:31:11,departed
+WZ8807398,Jessica,Lee,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,18C,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+WD7719150,Jamie,Campos,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,12C,FWL8869,Captain,2025-08-01,16:03:49,departed
+HK3576006,Dalton,Larson,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,20B,FWL3110,Captain,2025-07-03,15:32:49,departed
+ME7174956,Jennifer,Moon,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,19A,FWL1975,Captain,2025-07-06,05:03:57,delayed
+PN3333151,Harold,Shelton,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,14E,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+FL0364141,Patricia,Lyons,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,3E,FWL6424,Captain,2025-08-11,01:12:26,on time
+DG6851882,Yesenia,Henderson,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,4E,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+BA9855741,Timothy,Shea,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,19C,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+RP8177548,Charles,Jacobson,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,19D,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+ZV6609821,Sharon,Thomas,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,11D,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+AO0529086,Megan,Jarvis,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,1D,FWL8869,Captain,2025-08-01,16:03:49,departed
+EP7189103,Tom,Brown,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,3D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+AU2150722,Michael,Pennington,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,23B,FWL4157,Captain,2025-08-13,22:02:00,on time
+NZ5271378,Deborah,Garrison,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,12E,FWL2655,First Officer,2025-06-22,12:40:49,departed
+JS6112203,Heather,Turner,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,23C,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+CB1662644,Marvin,Ware,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,3D,FWL9907,Captain,2025-06-19,18:44:34,canceled
+LX0111373,Richard,Conley,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,18B,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+ZB4837937,David,Baker,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,12B,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+UN6547056,Joshua,Klein,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,6F,FWL1999,Captain,2025-08-13,04:49:16,on time
+DL2208961,Amber,Ford,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,13B,FWL7323,First Officer,2025-07-21,18:45:49,departed
+RF1837588,Ryan,Hess,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,7B,FWL3435,Captain,2025-06-29,02:06:45,arrived
+ED5959828,Janet,Jones,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,27E,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+HJ6281353,William,Terrell,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,7A,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+OG7095776,Stephanie,Johnson,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,22D,FWL4157,Captain,2025-08-13,22:02:00,on time
+IZ9264523,Renee,Owen,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,18D,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+YZ9805192,Ryan,Moss,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,25E,FWL3110,Captain,2025-07-03,15:32:49,departed
+WE2738720,Ronald,Miller,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,28D,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+CZ7998182,Shaun,Thomas,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,17C,FWL5625,First Officer,2025-06-29,17:29:58,departed
+FZ3690557,Steven,Mosley,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,25B,FWL4157,Captain,2025-08-13,22:02:00,on time
+SA5366644,Kevin,Jones,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,23E,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+AO0529086,Megan,Jarvis,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,23A,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+JZ6568720,John,King,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,7D,FWL4157,Captain,2025-08-13,22:02:00,on time
+NU7117287,Suzanne,Ingram,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,11C,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+AI8689082,Monica,Thompson,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,18C,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+CT8555313,Mary,Vasquez,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,16E,FWL1999,Captain,2025-08-13,04:49:16,on time
+LX0111373,Richard,Conley,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,6D,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+RZ5776049,Natasha,Moran,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,28D,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+ZS3593378,Tracy,West,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,6E,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+CF6354547,Dale,Harrison,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,15A,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+WW6545784,Breanna,Carter,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,18D,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+QS6125292,Mark,Ramirez,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,5F,FWL5093,Captain,2025-07-20,08:31:34,on time
+SS4697669,John,Thompson,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,26A,FWL8317,Captain,2025-07-27,05:41:01,departed
+GU0778368,Melissa,Roberson,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,16B,FWL2655,First Officer,2025-06-22,12:40:49,departed
+FT8018134,Jonathan,Mcconnell,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,24C,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+HM0444022,Sarah,Wilkins,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,9E,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+NT2089414,Brianna,Johnson,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,26A,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+KN9654137,Samantha,Faulkner,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,14C,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+ZB4837937,David,Baker,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,4D,FWL2584,Captain,2025-07-05,04:19:10,delayed
+OX8796751,Dennis,Hall,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,12C,FWL3435,Captain,2025-06-29,02:06:45,arrived
+WD7719150,Jamie,Campos,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,30C,FWL6424,Captain,2025-08-11,01:12:26,on time
+YX8265135,Laura,Key,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,14A,FWL7108,Captain,2025-08-03,18:11:29,delayed
+MQ2948620,Joyce,Rodriguez,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,20B,FWL4157,Captain,2025-08-13,22:02:00,on time
+RB6780044,Danielle,Brown,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,12C,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+ZD3534220,David,Knight,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,22E,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+HM0444022,Sarah,Wilkins,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,24D,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+OG7095776,Stephanie,Johnson,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,20C,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+KJ4592686,Rose,Thompson,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,5B,FWL2584,Captain,2025-07-05,04:19:10,delayed
+FD7053856,Robert,Ramirez,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,21E,FWL2655,First Officer,2025-06-22,12:40:49,departed
+RT9700200,Jennifer,Dixon,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,3A,FWL1975,Captain,2025-07-06,05:03:57,delayed
+SH9854339,David,Miller,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,8C,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+ID3878394,Jennifer,Savage,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,19F,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+YO6686104,Jacqueline,Barnes,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,26C,FWL7512,First Officer,2025-06-24,02:39:58,on time
+IY0991942,Adrian,Harris,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,12F,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+QV7260113,Victoria,Ford,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,14B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+AB6997406,Carolyn,Morales,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,5F,FWL7108,Captain,2025-08-03,18:11:29,delayed
+CL6319080,Benjamin,Williams,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,9F,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+OG7095776,Stephanie,Johnson,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,6D,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+FK9568730,Lindsey,Juarez,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,3D,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+FL2283554,Daniel,Cline,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,2D,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+QZ5413403,Shirley,Carter,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,3A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+NX3788211,Michelle,Clark,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,5A,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+QP2656047,Allison,Parks,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,8B,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+EF9421081,Jennifer,Rose,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,21B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+CF6354547,Dale,Harrison,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,11A,FWL5278,Captain,2025-07-14,05:31:11,departed
+FF0629802,Timothy,Love,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,12C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+ZB4837937,David,Baker,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,18C,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+FL2283554,Daniel,Cline,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,5F,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+CZ7998182,Shaun,Thomas,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,19E,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+BA8967482,Emily,Martin,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,24F,FWL2584,Captain,2025-07-05,04:19:10,delayed
+CT5393120,Kevin,Estes,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,17F,FWL6846,Captain,2025-07-29,14:50:41,on time
+LJ8497285,Susan,Lindsey,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,12D,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+CZ7998182,Shaun,Thomas,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,26A,FWL3110,Captain,2025-07-03,15:32:49,departed
+PN3333151,Harold,Shelton,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,20A,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+RX0402501,Sean,Baker,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,9C,FWL5278,Captain,2025-07-14,05:31:11,departed
+UV8037131,Samuel,Holt,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,18A,FWL8317,Captain,2025-07-27,05:41:01,departed
+II8891392,Peter,Finley,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,16C,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+BF2021263,Latoya,Benson,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,14C,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+OI9546078,Michael,Kirby,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,18C,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+NO7108629,David,Lawrence,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,18D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+YX1819934,James,Jackson,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,6F,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+QP2656047,Allison,Parks,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,8C,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+OG7095776,Stephanie,Johnson,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,21B,FWL6846,Captain,2025-07-29,14:50:41,on time
+FT8018134,Jonathan,Mcconnell,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,26E,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+VQ3410183,Caitlin,Turner,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,21F,FWL9907,Captain,2025-06-19,18:44:34,canceled
+BS5918729,Elizabeth,Wright,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,14B,FWL1999,Captain,2025-08-13,04:49:16,on time
+WZ8807398,Jessica,Lee,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,5C,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+JF3737820,Kyle,Reed,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,15E,FWL2584,Captain,2025-07-05,04:19:10,delayed
+JV4662896,Katherine,Reynolds,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,23E,FWL1999,Captain,2025-08-13,04:49:16,on time
+II8891392,Peter,Finley,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,11A,FWL5093,Captain,2025-07-20,08:31:34,on time
+LO6980137,Cassandra,Olson,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,2B,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+FK9568730,Lindsey,Juarez,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,9B,FWL9907,Captain,2025-06-19,18:44:34,canceled
+WH7895951,Gabriel,Huffman,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,1B,FWL2641,Captain,2025-07-16,20:25:19,arrived
+BK6164260,Tina,Allen,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,1D,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+JK1184665,Sharon,Cardenas,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,14C,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+QG6770944,Bobby,Horne,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,15F,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+IZ6451235,Bryan,Fletcher,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,3B,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+WV2718828,Tammie,Williams,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,16B,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+LI5642813,Christopher,Hernandez,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,27D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+JZ6568720,John,King,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,25F,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+CB1662644,Marvin,Ware,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,25D,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+AT2433775,Henry,Beasley,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,2B,FWL8750,Captain,2025-07-09,12:09:18,on time
+AO0529086,Megan,Jarvis,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,25A,FWL8750,Captain,2025-07-09,12:09:18,on time
+QV7260113,Victoria,Ford,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,7D,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+QP2656047,Allison,Parks,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,10C,FWL4157,Captain,2025-08-13,22:02:00,on time
+PQ4033683,Angel,Bryant,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,24A,FWL2584,Captain,2025-07-05,04:19:10,delayed
+IR0074184,Riley,Miranda,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,8C,FWL5278,Captain,2025-07-14,05:31:11,departed
+IC0332114,Morgan,Camacho,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,10B,FWL2584,Captain,2025-07-05,04:19:10,delayed
+FJ0486458,Troy,Bauer,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,14A,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+CL6319080,Benjamin,Williams,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,14C,FWL2584,Captain,2025-07-05,04:19:10,delayed
+IG2983639,Angela,Baker,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,18E,FWL2481,Captain,2025-08-12,15:07:56,delayed
+WP1973435,Beverly,Collins,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,26B,FWL1975,Captain,2025-07-06,05:03:57,delayed
+BF2021263,Latoya,Benson,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,19F,FWL5625,First Officer,2025-06-29,17:29:58,departed
+ZB4837937,David,Baker,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,20B,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+RZ5776049,Natasha,Moran,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,3B,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+ZR2074691,Laura,Stone,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,6F,FWL7323,First Officer,2025-07-21,18:45:49,departed
+CI9757809,Samuel,Johnson,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,21A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+DC5267262,Brittany,Brooks,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,10F,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+JS6112203,Heather,Turner,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,5D,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+QT7242344,Kim,Campos,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,18F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+NE9167685,Jonathan,Luna,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,24B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+JZ5980765,Dwayne,Obrien,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,13C,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+IS2211157,Tina,Martinez,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,2D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+WH7895951,Gabriel,Huffman,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,10E,FWL6424,Captain,2025-08-11,01:12:26,on time
+QP1139368,Luis,Sampson,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,19B,FWL5093,Captain,2025-07-20,08:31:34,on time
+QW0529393,Cassandra,Hanson,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,21F,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+LU5805028,Todd,Lawson,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,20E,FWL1999,Captain,2025-08-13,04:49:16,on time
+SH9854339,David,Miller,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,17B,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+OF1295413,Kevin,Crane,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,9E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+UI9715501,Veronica,Acosta,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,1F,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+LK7553014,Andrew,Tanner,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,24B,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+ZN0016740,Jay,Bell,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,12E,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+RT8796352,Ashlee,Barker,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,24A,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+HO3722896,Matthew,King,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,7E,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+MS4268744,Duane,Cardenas,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,18B,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+RV7656433,Justin,Austin,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,14F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+IC6364630,Christopher,Malone,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,4E,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+FG1784619,Philip,King,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,27B,FWL5625,First Officer,2025-06-29,17:29:58,departed
+ZM0558845,Adam,Robles,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,7A,FWL5625,First Officer,2025-06-29,17:29:58,departed
+KC9995131,John,Wilson,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,4A,FWL5093,Captain,2025-07-20,08:31:34,on time
+RT9700200,Jennifer,Dixon,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,25F,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+QP1139368,Luis,Sampson,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,17A,FWL5278,Captain,2025-07-14,05:31:11,departed
+UI9715501,Veronica,Acosta,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,20F,FWL3110,Captain,2025-07-03,15:32:49,departed
+WV2718828,Tammie,Williams,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,30B,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+II8891392,Peter,Finley,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,15F,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+MX8042076,Melanie,Jackson,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,18F,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+PZ6082691,Amanda,Beck,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,9E,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+IW2144229,Cynthia,Austin,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,5C,FWL2641,Captain,2025-07-16,20:25:19,arrived
+ZG1473653,Timothy,Lowe,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,17A,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+OD2670454,Heather,Potter,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,15E,FWL2641,Captain,2025-07-16,20:25:19,arrived
+RJ9898227,Gregory,Hawkins,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,7E,FWL5093,Captain,2025-07-20,08:31:34,on time
+CB1662644,Marvin,Ware,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,12E,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+VZ4103713,Alexis,Gomez,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,24A,FWL2655,First Officer,2025-06-22,12:40:49,departed
+RB6780044,Danielle,Brown,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,30F,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+VG3297184,Scott,Navarro,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,6B,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+IR0074184,Riley,Miranda,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,17C,FWL1975,Captain,2025-07-06,05:03:57,delayed
+ZR2074691,Laura,Stone,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,20D,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+BL4263778,Marissa,Jones,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,18C,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+RZ5776049,Natasha,Moran,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,25F,FWL2655,First Officer,2025-06-22,12:40:49,departed
+TK2280528,Melanie,Wilson,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,21E,FWL2641,Captain,2025-07-16,20:25:19,arrived
+RF1837588,Ryan,Hess,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,14D,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+IR0074184,Riley,Miranda,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,9C,FWL8750,Captain,2025-07-09,12:09:18,on time
+JV4662896,Katherine,Reynolds,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,13A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+GW5656538,Alexandria,Johnson,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,10A,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+QU1286174,Sandra,Mccarty,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,7C,FWL3110,Captain,2025-07-03,15:32:49,departed
+GQ1449825,Katherine,Jones,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,23C,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+RG3913362,Emily,Shea,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,18E,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+AO0529086,Megan,Jarvis,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,10B,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+PT6174774,Marissa,Jones,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,29E,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+CB1662644,Marvin,Ware,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,9C,FWL3110,Captain,2025-07-03,15:32:49,departed
+TU1419502,Robert,Lopez,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,26E,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+JK1184665,Sharon,Cardenas,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,5F,FWL2641,Captain,2025-07-16,20:25:19,arrived
+UR9167007,Tammy,Garcia,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,6D,FWL8317,Captain,2025-07-27,05:41:01,departed
+RB6780044,Danielle,Brown,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,20F,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+QU1286174,Sandra,Mccarty,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,24E,FWL5625,First Officer,2025-06-29,17:29:58,departed
+QS6125292,Mark,Ramirez,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,25A,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+OX8796751,Dennis,Hall,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,28D,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+WP1973435,Beverly,Collins,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,8F,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+JF2966171,Joe,Ball,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,25F,FWL2584,Captain,2025-07-05,04:19:10,delayed
+QS6125292,Mark,Ramirez,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,20E,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+LW5098998,David,Young,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,18E,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+SS4697669,John,Thompson,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,17F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+WI1908112,Jose,Cohen,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,4F,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+FZ3690557,Steven,Mosley,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,25E,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+HI5285368,Michael,Matthews,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,3B,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+TI5633162,Steven,Nelson,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,13B,FWL9907,Captain,2025-06-19,18:44:34,canceled
+CF6354547,Dale,Harrison,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,3D,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+NX6573856,Robert,Morris,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,25F,FWL6846,Captain,2025-07-29,14:50:41,on time
+YC7476647,Juan,Lee,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,5D,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+WD7719150,Jamie,Campos,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,16D,FWL5093,Captain,2025-07-20,08:31:34,on time
+RT9700200,Jennifer,Dixon,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,18E,FWL5093,Captain,2025-07-20,08:31:34,on time
+QZ5413403,Shirley,Carter,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,8A,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+HI5285368,Michael,Matthews,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,4F,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+LS0505551,Philip,Todd,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,12C,FWL6846,Captain,2025-07-29,14:50:41,on time
+DL2208961,Amber,Ford,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,12E,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+EX8266175,Ryan,Miller,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,10B,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+MQ2948620,Joyce,Rodriguez,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,27D,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+WZ3667922,Kimberly,Webb,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,2B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+XQ3457027,Lori,Duarte,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,12B,FWL4157,Captain,2025-08-13,22:02:00,on time
+HO0245644,Gregory,Thomas,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,24A,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+ZV6609821,Sharon,Thomas,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,5C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+IG2983639,Angela,Baker,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,23A,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+GG4929418,Stacy,Allen,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,24E,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+YH4081467,Martin,Thomas,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,18E,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+AI8689082,Monica,Thompson,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,16E,FWL6424,Captain,2025-08-11,01:12:26,on time
+MV4060153,Matthew,Peterson,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,23F,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+ZN0016740,Jay,Bell,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,19F,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+AD8954648,Matthew,Watkins,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,9B,FWL5625,First Officer,2025-06-29,17:29:58,departed
+DC5267262,Brittany,Brooks,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,7F,FWL9907,Captain,2025-06-19,18:44:34,canceled
+BF2021263,Latoya,Benson,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,13F,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+WW6545784,Breanna,Carter,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,22C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+QA3506140,Timothy,Singh,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,10F,FWL7108,Captain,2025-08-03,18:11:29,delayed
+RJ9898227,Gregory,Hawkins,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,13E,FWL3110,Captain,2025-07-03,15:32:49,departed
+QT5620223,Jacob,Carlson,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,16E,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+BS5918729,Elizabeth,Wright,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,6B,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+NX6573856,Robert,Morris,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,18F,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+GQ1449825,Katherine,Jones,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,8E,FWL5625,First Officer,2025-06-29,17:29:58,departed
+NG1462460,Todd,Oneal,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,16D,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+ZR2074691,Laura,Stone,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,12F,FWL7108,Captain,2025-08-03,18:11:29,delayed
+BL4263778,Marissa,Jones,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,20B,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+NX6573856,Robert,Morris,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,26A,FWL1999,Captain,2025-08-13,04:49:16,on time
+BA9855741,Timothy,Shea,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,29A,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+RS0412606,Todd,Carr,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,8B,FWL1999,Captain,2025-08-13,04:49:16,on time
+QL6387619,Chelsea,Austin,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,22B,FWL1975,Captain,2025-07-06,05:03:57,delayed
+FM9710563,Robert,Mooney,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,25E,FWL2641,Captain,2025-07-16,20:25:19,arrived
+BU8549044,Stephanie,Parrish,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,8E,FWL2655,First Officer,2025-06-22,12:40:49,departed
+OH1669540,Benjamin,Le,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,10E,FWL6846,Captain,2025-07-29,14:50:41,on time
+NK6217435,John,Hansen,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,18B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+SZ9837054,Laura,Lee,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,9E,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+SV7645244,Jeffery,Mills,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,26B,FWL4157,Captain,2025-08-13,22:02:00,on time
+FE0529561,Danielle,Stewart,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,23F,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+QZ5413403,Shirley,Carter,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,14B,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+OP6768635,Cindy,Dunn,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,21A,FWL2481,Captain,2025-08-12,15:07:56,delayed
+VZ4103713,Alexis,Gomez,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,24A,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+AB6997406,Carolyn,Morales,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,27B,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+OM5622780,Andrew,Hart,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,15F,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+SN1244513,Glenda,Walsh,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,13A,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+CF6354547,Dale,Harrison,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,1E,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+YO6686104,Jacqueline,Barnes,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,15E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+OI9546078,Michael,Kirby,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,22A,FWL3110,Captain,2025-07-03,15:32:49,departed
+TM5430959,Stephanie,Khan,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,23D,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+IS2211157,Tina,Martinez,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,20D,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+UU5751668,Eric,James,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,13D,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+VK8371975,Derek,Griffith,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,6B,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+TN7475159,Veronica,Nelson,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,14A,FWL5625,First Officer,2025-06-29,17:29:58,departed
+WW6545784,Breanna,Carter,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,8F,FWL2655,First Officer,2025-06-22,12:40:49,departed
+ED5959828,Janet,Jones,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,7A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+GU0778368,Melissa,Roberson,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,20D,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+UR9167007,Tammy,Garcia,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,8D,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+GG7937066,Jeffrey,Jones,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,2E,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+RN3193377,Candace,Green,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,21D,FWL2641,Captain,2025-07-16,20:25:19,arrived
+RT9700200,Jennifer,Dixon,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,3E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+QA3506140,Timothy,Singh,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,15A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+SI3085416,Mark,Mccullough,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,26F,FWL5278,Captain,2025-07-14,05:31:11,departed
+IW2144229,Cynthia,Austin,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,13E,FWL6424,Captain,2025-08-11,01:12:26,on time
+CE5621825,Cassidy,Shaw,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,10D,FWL5093,Captain,2025-07-20,08:31:34,on time
+YZ9805192,Ryan,Moss,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,25C,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+UX1011582,Susan,Hill,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,28C,FWL2481,Captain,2025-08-12,15:07:56,delayed
+RH3704990,Charlotte,Peters,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,17B,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+KJ4592686,Rose,Thompson,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,29A,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+NX6573856,Robert,Morris,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,6E,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+AU7746305,Mark,Hawkins,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,13D,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+ME7174956,Jennifer,Moon,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,23B,FWL8869,Captain,2025-08-01,16:03:49,departed
+ME7174956,Jennifer,Moon,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,9C,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+KN9654137,Samantha,Faulkner,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,24A,FWL8506,Captain,2025-06-19,19:55:08,delayed
+BK6164260,Tina,Allen,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,23D,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+LW7734515,Joshua,Johnson,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,17F,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+HF7339721,Jason,Wilkinson,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,11D,FWL2641,Captain,2025-07-16,20:25:19,arrived
+IR0074184,Riley,Miranda,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,2B,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+OX8796751,Dennis,Hall,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,10B,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+WZ3667922,Kimberly,Webb,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,25F,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+QK5592723,Marie,Chavez,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,10C,FWL2655,First Officer,2025-06-22,12:40:49,departed
+RY3706617,Justin,Lee,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,7A,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+KP0321230,Tiffany,Smith,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,15D,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+QG6770944,Bobby,Horne,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,1E,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+IZ9264523,Renee,Owen,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,7E,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+ZB4837937,David,Baker,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,14D,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+FL2283554,Daniel,Cline,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,20F,FWL1999,Captain,2025-08-13,04:49:16,on time
+VZ4103713,Alexis,Gomez,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,2B,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+RE1004522,Joann,Daniels,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,23A,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+WZ3667922,Kimberly,Webb,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,22E,FWL5625,First Officer,2025-06-29,17:29:58,departed
+AB5293098,Jennifer,Gardner,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,3A,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+QA3506140,Timothy,Singh,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,6B,FWL2655,First Officer,2025-06-22,12:40:49,departed
+EF9421081,Jennifer,Rose,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,22F,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+UN6547056,Joshua,Klein,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,6D,FWL6424,Captain,2025-08-11,01:12:26,on time
+PI7717719,Jeffrey,Gray,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,30A,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+TU1419502,Robert,Lopez,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,10C,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+IM4653619,Sean,Hansen,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,27A,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+VG3297184,Scott,Navarro,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,3C,FWL6424,Captain,2025-08-11,01:12:26,on time
+IY5773012,Susan,Saunders,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,4F,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+SN1244513,Glenda,Walsh,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,17D,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+QZ5413403,Shirley,Carter,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,23B,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+PZ6082691,Amanda,Beck,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,19F,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+MC0722514,Abigail,Sanders,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,16F,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+VU8144624,John,Rivera,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,20C,FWL6846,Captain,2025-07-29,14:50:41,on time
+AI8689082,Monica,Thompson,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,23B,FWL5278,Captain,2025-07-14,05:31:11,departed
+CT5393120,Kevin,Estes,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,32D,FWL7323,First Officer,2025-07-21,18:45:49,departed
+LS4614936,George,Smith,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,8F,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+HT4538483,Kyle,Houston,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,1A,FWL5093,Captain,2025-07-20,08:31:34,on time
+EX8266175,Ryan,Miller,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,21A,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+RR5891208,David,Mcguire,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,14D,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+LK9957129,Thomas,Rivera,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,12E,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+YH4081467,Martin,Thomas,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,21B,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+RV7656433,Justin,Austin,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,26A,FWL3435,Captain,2025-06-29,02:06:45,arrived
+ZB5595346,Kenneth,Chandler,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,17E,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+WJ9299063,Christopher,Graham,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,1A,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+LX4068330,Eric,Dominguez,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,13F,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+PN9991853,Jeffrey,Johnson,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,1B,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+MG5592962,Mark,Thomas,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,11F,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+AO0529086,Megan,Jarvis,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,11D,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+QU1286174,Sandra,Mccarty,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,21E,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+JS6112203,Heather,Turner,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,7E,FWL7108,Captain,2025-08-03,18:11:29,delayed
+GG4929418,Stacy,Allen,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,5B,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+ZS3593378,Tracy,West,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,11D,FWL7108,Captain,2025-08-03,18:11:29,delayed
+LJ8497285,Susan,Lindsey,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,25B,FWL2481,Captain,2025-08-12,15:07:56,delayed
+EP7189103,Tom,Brown,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,10F,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+NZ5271378,Deborah,Garrison,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,2C,FWL8506,Captain,2025-06-19,19:55:08,delayed
+LS0505551,Philip,Todd,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,16B,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+RZ5776049,Natasha,Moran,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,10B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+QZ5413403,Shirley,Carter,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,6A,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+UU5751668,Eric,James,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,25B,FWL5625,First Officer,2025-06-29,17:29:58,departed
+TU1419502,Robert,Lopez,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,17A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+OK0305332,David,Rush,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,5B,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+QL6387619,Chelsea,Austin,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,24E,FWL8317,Captain,2025-07-27,05:41:01,departed
+ZG0737677,James,Werner,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,11B,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+QT5620223,Jacob,Carlson,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,9B,FWL5278,Captain,2025-07-14,05:31:11,departed
+RF1954781,Ronnie,Rice,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,13F,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+ES5413166,Paula,Hammond,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,1C,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+EM2403927,Maria,Black,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,20A,FWL4157,Captain,2025-08-13,22:02:00,on time
+QV7260113,Victoria,Ford,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,22F,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+IB5817466,David,Goodwin,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,19C,FWL7108,Captain,2025-08-03,18:11:29,delayed
+OX2089341,Shawna,Elliott,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,7B,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+GF6980712,James,Campbell,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,4C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+SS4697669,John,Thompson,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,18A,FWL2481,Captain,2025-08-12,15:07:56,delayed
+IG2983639,Angela,Baker,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,18E,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+FK9568730,Lindsey,Juarez,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,18C,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+IR0074184,Riley,Miranda,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,9B,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+EF9421081,Jennifer,Rose,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,16B,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+WV2718828,Tammie,Williams,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,20C,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+BW9040771,Daniel,Salazar,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,22A,FWL8317,Captain,2025-07-27,05:41:01,departed
+FL0364141,Patricia,Lyons,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,2A,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+VG3297184,Scott,Navarro,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,6F,FWL1975,Captain,2025-07-06,05:03:57,delayed
+PF9573532,David,Ayala,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,12C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+LX4068330,Eric,Dominguez,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,23F,FWL5093,Captain,2025-07-20,08:31:34,on time
+LJ8497285,Susan,Lindsey,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,30D,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+NT2089414,Brianna,Johnson,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,3F,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+LU5805028,Todd,Lawson,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,15C,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+WT0350014,Lindsey,Hill,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,8B,FWL8317,Captain,2025-07-27,05:41:01,departed
+ZD7672544,Jessica,Fisher,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,9C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+CU0594984,Samuel,Barnes,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,23F,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+GG4929418,Stacy,Allen,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,15D,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+MO2842572,Benjamin,Cruz,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,16A,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+MQ2948620,Joyce,Rodriguez,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,15B,FWL8317,Captain,2025-07-27,05:41:01,departed
+HI5285368,Michael,Matthews,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,17A,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+GG7937066,Jeffrey,Jones,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,26A,FWL8506,Captain,2025-06-19,19:55:08,delayed
+UR9167007,Tammy,Garcia,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,21A,FWL6424,Captain,2025-08-11,01:12:26,on time
+AC2857512,Stephanie,Simmons,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,15D,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+LS0505551,Philip,Todd,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,20B,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+FL2283554,Daniel,Cline,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,31D,FWL2481,Captain,2025-08-12,15:07:56,delayed
+VP1138788,Kathryn,Petersen,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,7F,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+TK2280528,Melanie,Wilson,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,19C,FWL6846,Captain,2025-07-29,14:50:41,on time
+QW0529393,Cassandra,Hanson,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,8B,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+ZG1473653,Timothy,Lowe,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,23E,FWL8750,Captain,2025-07-09,12:09:18,on time
+HM0444022,Sarah,Wilkins,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,19E,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+KJ4592686,Rose,Thompson,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,18A,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+IY0991942,Adrian,Harris,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,10D,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+WZ8807398,Jessica,Lee,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,7F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+RN3193377,Candace,Green,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,16F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+MX8042076,Melanie,Jackson,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,7B,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+RE1004522,Joann,Daniels,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,5D,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+BS5918729,Elizabeth,Wright,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,13E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+RB6780044,Danielle,Brown,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,7B,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+ID3878394,Jennifer,Savage,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,19F,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+HB4741950,Susan,Norton,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,23C,FWL6846,Captain,2025-07-29,14:50:41,on time
+VT6210248,Richard,Johnson,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,1E,FWL8869,Captain,2025-08-01,16:03:49,departed
+LS3381866,Tracy,Figueroa,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,5C,FWL1975,Captain,2025-07-06,05:03:57,delayed
+RH3704990,Charlotte,Peters,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,23E,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+TM5430959,Stephanie,Khan,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,10A,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+CL6319080,Benjamin,Williams,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,23E,FWL6846,Captain,2025-07-29,14:50:41,on time
+FZ3690557,Steven,Mosley,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,11F,FWL2584,Captain,2025-07-05,04:19:10,delayed
+QS6125292,Mark,Ramirez,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,13D,FWL1975,Captain,2025-07-06,05:03:57,delayed
+AU7746305,Mark,Hawkins,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,22B,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+ZB4837937,David,Baker,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,7E,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+HF7339721,Jason,Wilkinson,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,27D,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+OH1669540,Benjamin,Le,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,22B,FWL9907,Captain,2025-06-19,18:44:34,canceled
+IS2211157,Tina,Martinez,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,3F,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+LG2525832,Antonio,Harvey,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,32F,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+YR7341374,Debra,Lamb,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,3B,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+IN1250584,Raymond,Black,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,26F,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+NS2002655,Kristy,Bullock,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,6D,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+ZD9134244,Michelle,Thomas,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,18D,FWL6846,Captain,2025-07-29,14:50:41,on time
+HF7339721,Jason,Wilkinson,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,15B,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+NS2002655,Kristy,Bullock,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,1E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+QG6770944,Bobby,Horne,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,16F,FWL2641,Captain,2025-07-16,20:25:19,arrived
+NX6573856,Robert,Morris,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,14E,FWL1999,Captain,2025-08-13,04:49:16,on time
+RB6780044,Danielle,Brown,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,2A,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+NT2089414,Brianna,Johnson,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,23C,FWL8317,Captain,2025-07-27,05:41:01,departed
+AO9367679,Levi,Fisher,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,16F,FWL8869,Captain,2025-08-01,16:03:49,departed
+OG7095776,Stephanie,Johnson,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,18D,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+FT8018134,Jonathan,Mcconnell,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,17E,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+VT6210248,Richard,Johnson,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,16F,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+ZG1473653,Timothy,Lowe,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,21E,FWL4157,Captain,2025-08-13,22:02:00,on time
+PI7717719,Jeffrey,Gray,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,20A,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+LX0111373,Richard,Conley,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,25A,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+XM0098509,Robert,Sosa,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,17D,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+BL4263778,Marissa,Jones,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,10B,FWL9907,Captain,2025-06-19,18:44:34,canceled
+RF1954781,Ronnie,Rice,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,20F,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+HB4741950,Susan,Norton,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,17A,FWL2641,Captain,2025-07-16,20:25:19,arrived
+VK8371975,Derek,Griffith,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,6E,FWL8869,Captain,2025-08-01,16:03:49,departed
+QK5592723,Marie,Chavez,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,10F,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+UN0309883,Betty,Nelson,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,16A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+WV0824630,James,Russell,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,3C,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+KP0321230,Tiffany,Smith,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,20C,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+SN1244513,Glenda,Walsh,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,1F,FWL3435,Captain,2025-06-29,02:06:45,arrived
+AO9367679,Levi,Fisher,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,12E,FWL7512,First Officer,2025-06-24,02:39:58,on time
+LO6980137,Cassandra,Olson,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,15C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+OI5543165,Kristen,Small,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,26F,FWL3435,Captain,2025-06-29,02:06:45,arrived
+CL6319080,Benjamin,Williams,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,12E,FWL7323,First Officer,2025-07-21,18:45:49,departed
+OH1669540,Benjamin,Le,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,27D,FWL7323,First Officer,2025-07-21,18:45:49,departed
+CT8555313,Mary,Vasquez,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,15F,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+PG1550994,Brittney,Walters,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,19F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+YX8265135,Laura,Key,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,17A,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+QK5592723,Marie,Chavez,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,30D,FWL2481,Captain,2025-08-12,15:07:56,delayed
+ZB4837937,David,Baker,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,16F,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+BS5918729,Elizabeth,Wright,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,13F,FWL3110,Captain,2025-07-03,15:32:49,departed
+QP2656047,Allison,Parks,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,9B,FWL8317,Captain,2025-07-27,05:41:01,departed
+TT5117838,James,Miranda,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,1C,FWL6846,Captain,2025-07-29,14:50:41,on time
+NM0948934,Andrew,Walton,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,22C,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+TT5117838,James,Miranda,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,2A,FWL4157,Captain,2025-08-13,22:02:00,on time
+BS5918729,Elizabeth,Wright,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,12D,FWL2584,Captain,2025-07-05,04:19:10,delayed
+VQ3410183,Caitlin,Turner,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,9C,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+QT5620223,Jacob,Carlson,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,21E,FWL3435,Captain,2025-06-29,02:06:45,arrived
+CU0594984,Samuel,Barnes,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,25F,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+RF1837588,Ryan,Hess,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,13E,FWL2641,Captain,2025-07-16,20:25:19,arrived
+VB7420109,James,Johnson,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,1F,FWL6424,Captain,2025-08-11,01:12:26,on time
+BF2021263,Latoya,Benson,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,1D,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+QT5620223,Jacob,Carlson,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,7F,FWL5278,Captain,2025-07-14,05:31:11,departed
+PF9573532,David,Ayala,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,15F,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+EX8266175,Ryan,Miller,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,3A,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+JK1184665,Sharon,Cardenas,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,8F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+WP1973435,Beverly,Collins,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,28E,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+YC7476647,Juan,Lee,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,22F,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+OP6768635,Cindy,Dunn,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,4F,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+AB6997406,Carolyn,Morales,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,10D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+HQ3959191,Angela,Gray,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,15C,FWL2584,Captain,2025-07-05,04:19:10,delayed
+VG3297184,Scott,Navarro,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,22C,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+BA9855741,Timothy,Shea,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,5C,FWL2481,Captain,2025-08-12,15:07:56,delayed
+MX8042076,Melanie,Jackson,DL602,2025-08-09,APL1000,Model-0,DL,LHR,London,UK,JFK,New York,USA,4,13C,FWL1326,Flight Attendant,2025-08-09,03:29:32,canceled
+DC5267262,Brittany,Brooks,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,27C,FWL3435,Captain,2025-06-29,02:06:45,arrived
+ZM0558845,Adam,Robles,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,3D,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+XQ3457027,Lori,Duarte,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,13B,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+II8891392,Peter,Finley,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,5E,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+TK2280528,Melanie,Wilson,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,20F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+FL0364141,Patricia,Lyons,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,23C,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+RT9700200,Jennifer,Dixon,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,17D,FWL2641,Captain,2025-07-16,20:25:19,arrived
+ZN0016740,Jay,Bell,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,10F,FWL7323,First Officer,2025-07-21,18:45:49,departed
+RX0402501,Sean,Baker,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,22D,FWL5625,First Officer,2025-06-29,17:29:58,departed
+YO6686104,Jacqueline,Barnes,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,22D,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+HI5285368,Michael,Matthews,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,17F,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+II8891392,Peter,Finley,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,14D,FWL8317,Captain,2025-07-27,05:41:01,departed
+WZ8807398,Jessica,Lee,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,8A,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+HF7339721,Jason,Wilkinson,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,25D,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+IW8196874,Donna,Moreno,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,23C,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+HB4741950,Susan,Norton,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,2F,FWL1975,Captain,2025-07-06,05:03:57,delayed
+BK6164260,Tina,Allen,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,18C,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+JB6338733,Cassandra,Stone,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,25C,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+ED5959828,Janet,Jones,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,18A,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+HF7339721,Jason,Wilkinson,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,7C,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+QP2656047,Allison,Parks,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,21F,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+WH7895951,Gabriel,Huffman,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,7B,FWL8750,Captain,2025-07-09,12:09:18,on time
+RF1954781,Ronnie,Rice,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,1F,FWL5093,Captain,2025-07-20,08:31:34,on time
+RT8796352,Ashlee,Barker,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,25A,FWL7323,First Officer,2025-07-21,18:45:49,departed
+CZ7998182,Shaun,Thomas,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,20D,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+LJ8497285,Susan,Lindsey,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,1A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+CI9757809,Samuel,Johnson,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,22F,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+LW5098998,David,Young,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,4B,FWL1975,Captain,2025-07-06,05:03:57,delayed
+ES5413166,Paula,Hammond,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,22E,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+SS4697669,John,Thompson,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,19B,FWL8750,Captain,2025-07-09,12:09:18,on time
+WV2718828,Tammie,Williams,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,24B,FWL5625,First Officer,2025-06-29,17:29:58,departed
+QP1139368,Luis,Sampson,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,2D,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+LK9957129,Thomas,Rivera,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,23F,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+YC7476647,Juan,Lee,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,6F,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+CE5621825,Cassidy,Shaw,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,27A,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+BA8967482,Emily,Martin,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,6E,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+GT5400895,Ian,Payne,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,4D,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+AU2150722,Michael,Pennington,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,26B,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+VG3297184,Scott,Navarro,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,26F,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+LG1775718,Regina,Clark,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,4F,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+HI5285368,Michael,Matthews,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,5C,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+YK7140449,Kim,Smith,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,2E,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+SN1244513,Glenda,Walsh,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,27B,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+ZV6609821,Sharon,Thomas,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,2B,FWL8869,Captain,2025-08-01,16:03:49,departed
+OD2670454,Heather,Potter,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,20D,FWL2584,Captain,2025-07-05,04:19:10,delayed
+ZR2074691,Laura,Stone,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,16A,FWL7108,Captain,2025-08-03,18:11:29,delayed
+NZ3586857,Crystal,Mitchell,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,6A,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+EF9421081,Jennifer,Rose,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,23D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+WV0824630,James,Russell,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,5F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+WW6545784,Breanna,Carter,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,29D,FWL5278,Captain,2025-07-14,05:31:11,departed
+RT8796352,Ashlee,Barker,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,20F,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+CL4476904,Danny,Fisher,AA126,2025-06-24,APL1003,Model-3,AA,CDG,Paris,France,HND,Tokyo,Japan,5,12F,FWL7512,First Officer,2025-06-24,02:39:58,on time
+QG6770944,Bobby,Horne,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,3F,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+AC2857512,Stephanie,Simmons,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,27A,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+VZ4103713,Alexis,Gomez,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,7A,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+TT5117838,James,Miranda,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,20C,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+CZ7998182,Shaun,Thomas,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,8D,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+RR5891208,David,Mcguire,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,2B,FWL1999,Captain,2025-08-13,04:49:16,on time
+AO9367679,Levi,Fisher,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,31D,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+GU0778368,Melissa,Roberson,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,3A,FWL2481,Captain,2025-08-12,15:07:56,delayed
+BN7296193,David,Martinez,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,7D,FWL9907,Captain,2025-06-19,18:44:34,canceled
+HT1426460,Sharon,Coleman,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,20D,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+EM2403927,Maria,Black,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,24A,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+HO3722896,Matthew,King,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,6A,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+KC9995131,John,Wilson,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,4A,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+CL6319080,Benjamin,Williams,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,29E,FWL2641,Captain,2025-07-16,20:25:19,arrived
+PI7717719,Jeffrey,Gray,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,14B,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+UR9167007,Tammy,Garcia,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,25A,FWL3110,Captain,2025-07-03,15:32:49,departed
+UR9167007,Tammy,Garcia,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,4B,FWL3110,Captain,2025-07-03,15:32:49,departed
+LS0505551,Philip,Todd,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,13B,FWL5093,Captain,2025-07-20,08:31:34,on time
+LH7201389,Karen,Gonzalez,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,19D,FWL8317,Captain,2025-07-27,05:41:01,departed
+RH3704990,Charlotte,Peters,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,5B,FWL6846,Captain,2025-07-29,14:50:41,on time
+ME7174956,Jennifer,Moon,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,13C,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+EF4795211,Ashley,Phillips,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,24B,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+TM5430959,Stephanie,Khan,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,7C,FWL1999,Captain,2025-08-13,04:49:16,on time
+WE2738720,Ronald,Miller,AF789,2025-06-29,APL1000,Model-0,AF,CDG,Paris,France,FRA,Frankfurt,Germany,8,23E,FWL5625,First Officer,2025-06-29,17:29:58,departed
+DC5267262,Brittany,Brooks,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,5A,FWL1999,Captain,2025-08-13,04:49:16,on time
+WT0350014,Lindsey,Hill,AA286,2025-07-26,APL1009,Model-4,AA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,14B,FWL3304,First Officer,2025-07-26,13:54:07,deviated
+LX0111373,Richard,Conley,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,10E,FWL3110,Captain,2025-07-03,15:32:49,departed
+ZR2074691,Laura,Stone,AA369,2025-07-05,APL1007,Model-2,AA,SIN,Singapore,Singapore,HND,Tokyo,Japan,3,20B,FWL2584,Captain,2025-07-05,04:19:10,delayed
+RB6780044,Danielle,Brown,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,28B,FWL6424,Captain,2025-08-11,01:12:26,on time
+FM9710563,Robert,Mooney,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,17D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+AJ4980659,Mark,Tate,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,16D,FWL8869,Captain,2025-08-01,16:03:49,departed
+HS6983513,Ryan,Willis,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,24D,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+AT2433775,Henry,Beasley,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,11D,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+PI7717719,Jeffrey,Gray,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,19B,FWL3110,Captain,2025-07-03,15:32:49,departed
+UN6547056,Joshua,Klein,AA979,2025-07-23,APL1000,Model-0,AA,FRA,Frankfurt,Germany,JFK,New York,USA,3,14A,FWL1579,Flight Attendant,2025-07-23,07:46:46,delayed
+FF0629802,Timothy,Love,UA430,2025-07-29,APL1002,Model-2,UA,CDG,Paris,France,DXB,Dubai,UAE,3,17D,FWL6846,Captain,2025-07-29,14:50:41,on time
+CQ7701767,Amy,Klein,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,4D,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+VK1555659,Gregory,Gardner,UA225,2025-06-21,APL1000,Model-0,UA,SIN,Singapore,Singapore,JFK,New York,USA,7,3E,FWL7471,First Officer,2025-06-21,04:23:06,canceled
+JZ6568720,John,King,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,24D,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+JK1184665,Sharon,Cardenas,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,12C,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+RT8796352,Ashlee,Barker,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,6A,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+CQ7701767,Amy,Klein,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,10B,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+AO0529086,Megan,Jarvis,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,2D,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+KJ4592686,Rose,Thompson,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,5F,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+KJ4592686,Rose,Thompson,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,21A,FWL8506,Captain,2025-06-19,19:55:08,delayed
+LX4068330,Eric,Dominguez,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,3C,FWL5278,Captain,2025-07-14,05:31:11,departed
+VG3297184,Scott,Navarro,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,9F,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+SV7645244,Jeffery,Mills,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,14F,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+JB6338733,Cassandra,Stone,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,11F,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+FG9883187,Tracy,Mckinney,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,22C,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+WT0350014,Lindsey,Hill,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,2C,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+UI9715501,Veronica,Acosta,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,21E,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+FG1784619,Philip,King,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,23B,FWL6424,Captain,2025-08-11,01:12:26,on time
+FE0529561,Danielle,Stewart,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,8E,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+FA1165267,Sandra,Reed,UA927,2025-07-11,APL1008,Model-3,UA,DXB,Dubai,UAE,MAD,Madrid,Spain,1,31F,FWL7342,Flight Attendant,2025-07-11,07:58:55,canceled
+NU7117287,Suzanne,Ingram,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,7F,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+TN7475159,Veronica,Nelson,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,12C,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+CT6360963,Kim,Carter,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,14C,FWL4157,Captain,2025-08-13,22:02:00,on time
+RH3704990,Charlotte,Peters,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,12C,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+BS5918729,Elizabeth,Wright,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,18C,FWL4157,Captain,2025-08-13,22:02:00,on time
+JV4662896,Katherine,Reynolds,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,12F,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+VP1138788,Kathryn,Petersen,AA793,2025-07-20,APL1004,Model-4,AA,HND,Tokyo,Japan,CDG,Paris,France,9,15A,FWL5093,Captain,2025-07-20,08:31:34,on time
+JB6338733,Cassandra,Stone,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,6C,FWL1975,Captain,2025-07-06,05:03:57,delayed
+ZG1473653,Timothy,Lowe,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,6C,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+AO9367679,Levi,Fisher,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,5D,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+LO6980137,Cassandra,Olson,BA204,2025-07-07,APL1002,Model-2,BA,LHR,London,UK,JFK,New York,USA,7,17F,FWL7098,Flight Attendant,2025-07-07,05:27:30,arrived
+GQ1449825,Katherine,Jones,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,14F,FWL9907,Captain,2025-06-19,18:44:34,canceled
+SV7645244,Jeffery,Mills,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,16C,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+KT7964938,Natalie,Mcdonald,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,24F,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+GQ1449825,Katherine,Jones,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,17F,FWL3110,Captain,2025-07-03,15:32:49,departed
+OX8796751,Dennis,Hall,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,19C,FWL2655,First Officer,2025-06-22,12:40:49,departed
+JJ5669375,Sarah,Case,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,29D,FWL7323,First Officer,2025-07-21,18:45:49,departed
+HB4741950,Susan,Norton,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,9C,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+OJ9588274,Patrick,Thornton,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,8D,FWL3435,Captain,2025-06-29,02:06:45,arrived
+RZ5776049,Natasha,Moran,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,25A,FWL9907,Captain,2025-06-19,18:44:34,canceled
+RE1004522,Joann,Daniels,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,19D,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+PG1550994,Brittney,Walters,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,6F,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+JS6112203,Heather,Turner,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,6B,FWL9907,Captain,2025-06-19,18:44:34,canceled
+OH1669540,Benjamin,Le,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,16A,FWL2481,Captain,2025-08-12,15:07:56,delayed
+LW5098998,David,Young,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,19B,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+GF6980712,James,Campbell,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,12B,FWL3435,Captain,2025-06-29,02:06:45,arrived
+SZ9837054,Laura,Lee,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,23A,FWL6424,Captain,2025-08-11,01:12:26,on time
+ID3878394,Jennifer,Savage,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,10C,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+NM0948934,Andrew,Walton,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,6E,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+AC2857512,Stephanie,Simmons,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,1D,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+QG6770944,Bobby,Horne,DL150,2025-07-28,APL1007,Model-2,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,5,5D,FWL5593,First Officer,2025-07-28,08:39:57,delayed
+MY5870685,Jack,Lutz,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,1F,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+AU7746305,Mark,Hawkins,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,11F,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+TH9149243,Charles,Shaw,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,10E,FWL8317,Captain,2025-07-27,05:41:01,departed
+RE1004522,Joann,Daniels,DL519,2025-07-18,APL1008,Model-3,DL,AMS,Amsterdam,Netherlands,HND,Tokyo,Japan,2,29C,FWL1813,First Officer,2025-07-18,17:08:45,delayed
+AO9367679,Levi,Fisher,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,31A,FWL2641,Captain,2025-07-16,20:25:19,arrived
+WM8544109,Andrea,Foster,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,18A,FWL4157,Captain,2025-08-13,22:02:00,on time
+ZB5595346,Kenneth,Chandler,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,13E,FWL7108,Captain,2025-08-03,18:11:29,delayed
+AU2150722,Michael,Pennington,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,12A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+JJ5669375,Sarah,Case,UA188,2025-07-07,APL1008,Model-3,UA,SIN,Singapore,Singapore,JFK,New York,USA,5,13E,FWL4974,First Officer,2025-07-07,06:55:11,arrived
+AD8954648,Matthew,Watkins,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,26C,FWL3110,Captain,2025-07-03,15:32:49,departed
+OR7064927,John,Davis,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,3E,FWL7108,Captain,2025-08-03,18:11:29,delayed
+PF9573532,David,Ayala,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,22A,FWL4157,Captain,2025-08-13,22:02:00,on time
+EZ2115924,Elaine,Simpson,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,7D,FWL1975,Captain,2025-07-06,05:03:57,delayed
+FJ0486458,Troy,Bauer,BA100,2025-07-06,APL1005,Model-0,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,6,5F,FWL1975,Captain,2025-07-06,05:03:57,delayed
+VG3297184,Scott,Navarro,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,13C,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+JZ6568720,John,King,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,12C,FWL9907,Captain,2025-06-19,18:44:34,canceled
+ZB5595346,Kenneth,Chandler,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,18A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+AJ4980659,Mark,Tate,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,29F,FWL2641,Captain,2025-07-16,20:25:19,arrived
+NS2002655,Kristy,Bullock,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,27B,FWL2641,Captain,2025-07-16,20:25:19,arrived
+FM9710563,Robert,Mooney,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,14C,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+ZB4837937,David,Baker,AF766,2025-07-14,APL1003,Model-3,AF,CDG,Paris,France,SIN,Singapore,Singapore,6,22A,FWL5278,Captain,2025-07-14,05:31:11,departed
+DR0910316,Dustin,Moody,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,1D,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+VQ3410183,Caitlin,Turner,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,6E,FWL2655,First Officer,2025-06-22,12:40:49,departed
+UX1011582,Susan,Hill,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,19B,FWL8506,Captain,2025-06-19,19:55:08,delayed
+RG3913362,Emily,Shea,UA314,2025-07-21,APL1003,Model-3,UA,LHR,London,UK,LAX,Los Angeles,USA,1,3C,FWL7323,First Officer,2025-07-21,18:45:49,departed
+MO3215725,Brenda,Crane,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,16E,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+KJ4592686,Rose,Thompson,AA696,2025-07-03,APL1009,Model-4,AA,HND,Tokyo,Japan,LHR,London,UK,8,1A,FWL3110,Captain,2025-07-03,15:32:49,departed
+OH1669540,Benjamin,Le,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,10F,FWL3435,Captain,2025-06-29,02:06:45,arrived
+IY5773012,Susan,Saunders,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,21F,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+VU8144624,John,Rivera,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,6D,FWL2655,First Officer,2025-06-22,12:40:49,departed
+SI3085416,Mark,Mccullough,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,4C,FWL7108,Captain,2025-08-03,18:11:29,delayed
+IZ9264523,Renee,Owen,UA705,2025-08-13,APL1007,Model-2,UA,FRA,Frankfurt,Germany,AMS,Amsterdam,Netherlands,1,20F,FWL4817,Flight Attendant,2025-08-13,01:25:57,arrived
+YR7341374,Debra,Lamb,AA491,2025-06-29,APL1006,Model-1,AA,CDG,Paris,France,LAX,Los Angeles,USA,8,21F,FWL3435,Captain,2025-06-29,02:06:45,arrived
+ZB4837937,David,Baker,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,4C,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+EZ2115924,Elaine,Simpson,AF701,2025-07-16,APL1008,Model-3,AF,DXB,Dubai,UAE,LHR,London,UK,10,2C,FWL2641,Captain,2025-07-16,20:25:19,arrived
+HJ6281353,William,Terrell,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,4C,FWL2481,Captain,2025-08-12,15:07:56,delayed
+FJ0486458,Troy,Bauer,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,21C,FWL2655,First Officer,2025-06-22,12:40:49,departed
+PO7055819,Tiffany,Rivers,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,10E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+ZG1473653,Timothy,Lowe,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,7F,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+QW8833778,Breanna,Roberts,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,4E,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+PG1550994,Brittney,Walters,AA450,2025-07-01,APL1002,Model-2,AA,DXB,Dubai,UAE,CDG,Paris,France,2,11C,FWL6536,Flight Attendant,2025-07-01,13:08:33,canceled
+AC2857512,Stephanie,Simmons,AF734,2025-08-13,APL1009,Model-4,AF,FRA,Frankfurt,Germany,HND,Tokyo,Japan,8,22F,FWL1999,Captain,2025-08-13,04:49:16,on time
+LW7734515,Joshua,Johnson,DL529,2025-07-22,APL1007,Model-2,DL,JFK,New York,USA,CDG,Paris,France,9,18E,FWL7767,Flight Attendant,2025-07-22,06:08:59,departed
+BL4263778,Marissa,Jones,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,1B,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+GW5656538,Alexandria,Johnson,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,12D,FWL9907,Captain,2025-06-19,18:44:34,canceled
+OM5622780,Andrew,Hart,UA885,2025-06-18,APL1009,Model-4,UA,FRA,Frankfurt,Germany,CDG,Paris,France,5,6A,FWL9743,Flight Attendant,2025-06-18,16:05:14,arrived
+JK1184665,Sharon,Cardenas,DL176,2025-07-16,APL1003,Model-3,DL,CDG,Paris,France,MAD,Madrid,Spain,8,15B,FWL8635,First Officer,2025-07-16,17:34:54,arrived
+WD7719150,Jamie,Campos,BA776,2025-07-03,APL1004,Model-4,BA,LHR,London,UK,AMS,Amsterdam,Netherlands,6,23E,FWL4056,First Officer,2025-07-03,03:39:23,arrived
+BS5918729,Elizabeth,Wright,AA189,2025-06-19,APL1006,Model-1,AA,AMS,Amsterdam,Netherlands,DXB,Dubai,UAE,9,18F,FWL8506,Captain,2025-06-19,19:55:08,delayed
+FA1165267,Sandra,Reed,DL700,2025-06-22,APL1002,Model-2,DL,LHR,London,UK,AMS,Amsterdam,Netherlands,7,15A,FWL2655,First Officer,2025-06-22,12:40:49,departed
+EP7189103,Tom,Brown,DL342,2025-08-08,APL1004,Model-4,DL,HND,Tokyo,Japan,LAX,Los Angeles,USA,6,1D,FWL8417,First Officer,2025-08-08,18:18:12,deviated
+VA0656746,Matthew,Holden,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,23C,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+WM8544109,Andrea,Foster,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,20E,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+LX0111373,Richard,Conley,UA946,2025-07-24,APL1009,Model-4,UA,JFK,New York,USA,FRA,Frankfurt,Germany,6,23C,FWL7492,Flight Attendant,2025-07-24,03:34:54,arrived
+BW9040771,Daniel,Salazar,AF898,2025-07-09,APL1001,Model-1,AF,HND,Tokyo,Japan,AMS,Amsterdam,Netherlands,8,4B,FWL8750,Captain,2025-07-09,12:09:18,on time
+WE2738720,Ronald,Miller,AA533,2025-07-17,APL1001,Model-1,AA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,5,5F,FWL6238,Flight Attendant,2025-07-17,13:50:19,arrived
+BU8549044,Stephanie,Parrish,BA900,2025-08-15,APL1005,Model-0,BA,SIN,Singapore,Singapore,AMS,Amsterdam,Netherlands,9,5B,FWL6269,First Officer,2025-08-15,15:56:19,delayed
+YC7476647,Juan,Lee,UA751,2025-07-08,APL1000,Model-0,UA,LAX,Los Angeles,USA,JFK,New York,USA,2,14F,FWL4361,Flight Attendant,2025-07-08,17:39:50,on time
+IZ6451235,Bryan,Fletcher,BA648,2025-06-30,APL1007,Model-2,BA,MAD,Madrid,Spain,FRA,Frankfurt,Germany,1,17E,FWL9226,Flight Attendant,2025-06-30,20:58:05,delayed
+DC5267262,Brittany,Brooks,AA343,2025-07-27,APL1005,Model-0,AA,LAX,Los Angeles,USA,CDG,Paris,France,6,4C,FWL8317,Captain,2025-07-27,05:41:01,departed
+JF2966171,Joe,Ball,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,4A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+SZ9837054,Laura,Lee,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,7B,FWL8869,Captain,2025-08-01,16:03:49,departed
+MQ2948620,Joyce,Rodriguez,BA329,2025-08-03,APL1005,Model-0,BA,FRA,Frankfurt,Germany,DXB,Dubai,UAE,10,3B,FWL7108,Captain,2025-08-03,18:11:29,delayed
+SH9854339,David,Miller,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,25F,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+RF1837588,Ryan,Hess,BA270,2025-07-05,APL1006,Model-1,BA,SIN,Singapore,Singapore,DXB,Dubai,UAE,7,19A,FWL2661,First Officer,2025-07-05,09:56:15,canceled
+QT5620223,Jacob,Carlson,AF662,2025-08-01,APL1007,Model-2,AF,CDG,Paris,France,JFK,New York,USA,5,25A,FWL8869,Captain,2025-08-01,16:03:49,departed
+RV7656433,Justin,Austin,BA223,2025-08-12,APL1008,Model-3,BA,LAX,Los Angeles,USA,FRA,Frankfurt,Germany,2,1F,FWL2481,Captain,2025-08-12,15:07:56,delayed
+ZB4837937,David,Baker,UA705,2025-06-24,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,8,23E,FWL9882,First Officer,2025-06-24,06:38:47,arrived
+AB6997406,Carolyn,Morales,AF934,2025-08-16,APL1002,Model-2,AF,DXB,Dubai,UAE,HND,Tokyo,Japan,10,22A,FWL7415,Flight Attendant,2025-08-16,23:28:58,arrived
+LS4614936,George,Smith,AA882,2025-08-01,APL1003,Model-3,AA,MAD,Madrid,Spain,DXB,Dubai,UAE,10,25D,FWL6210,Flight Attendant,2025-08-01,08:31:03,arrived
+AO9367679,Levi,Fisher,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,11A,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+WT0350014,Lindsey,Hill,UA569,2025-06-21,APL1001,Model-1,UA,MAD,Madrid,Spain,LHR,London,UK,2,17B,FWL2020,First Officer,2025-06-21,08:34:16,arrived
+VK1555659,Gregory,Gardner,DL382,2025-07-19,APL1006,Model-1,DL,CDG,Paris,France,MAD,Madrid,Spain,1,12F,FWL7484,First Officer,2025-07-19,16:30:11,deviated
+VU8144624,John,Rivera,AF594,2025-08-11,APL1000,Model-0,AF,DXB,Dubai,UAE,CDG,Paris,France,2,24A,FWL6424,Captain,2025-08-11,01:12:26,on time
+KK2149696,Nicole,Garza,UA284,2025-06-20,APL1000,Model-0,UA,LAX,Los Angeles,USA,MAD,Madrid,Spain,1,16A,FWL8728,Flight Attendant,2025-06-20,12:30:55,departed
+RJ9898227,Gregory,Hawkins,UA492,2025-06-19,APL1002,Model-2,UA,DXB,Dubai,UAE,FRA,Frankfurt,Germany,4,15E,FWL9907,Captain,2025-06-19,18:44:34,canceled
+IB5817466,David,Goodwin,AF919,2025-08-13,APL1009,Model-4,AF,MAD,Madrid,Spain,CDG,Paris,France,4,15B,FWL4157,Captain,2025-08-13,22:02:00,on time
