@@ -1,0 +1,61 @@
+[
+  {
+    "entity": "Order",
+    "columns": ["Order (PK)", "ClientName", "DateOrder (FK -> Client)"],
+    "relations": []
+  },
+  {
+    "entity": "Material",
+    "columns": ["NumMaterial (PK)", "MaterialDescription"],
+    "relations": []
+  },
+  {
+    "entity": "Operation",
+    "columns": ["OperationCode (PK)", "OperationDescription", "Type", "Colors", "MeasureUnitOperation"],
+    "relations": []
+  },
+  {
+    "entity": "WorkLine",
+    "columns": ["WorkLineCode (PK)", "WorkLineDescription"],
+    "relations": []
+  },
+  {
+    "entity": "Production",
+    "columns": ["NumMaterial (FK -> Material)", "OperationCode (FK -> Operation)", "WorkLineCode (FK -> WorkLine)", "QuantityPlanned", "QuantityProduced", "DateOperation", "Hour", "Order (FK -> Order)"],
+    "relations": [
+      {
+        "related_to": "Order",
+        "type": "many-to-one",
+        "possible_matches": [
+          ["Order", "Order"]
+        ]
+      },
+      {
+        "related_to": "Material",
+        "type": "many-to-one",
+        "possible_matches": [
+          ["NumMaterial", "NumMaterial"]
+        ]
+      },
+      {
+        "related_to": "Operation",
+        "type": "many-to-one",
+        "possible_matches": [
+          ["OperationCode", "OperationCode"]
+        ]
+      },
+      {
+        "related_to": "WorkLine",
+        "type": "many-to-one",
+        "possible_matches": [
+          ["WorkLineCode", "WorkLineCode"]
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "Client",
+    "columns": ["ClientName (PK)"],
+    "relations": []
+  }
+]
